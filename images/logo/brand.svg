@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg width="850" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" enable-background="new 0 0 850 200" version="1.1" xml:space="preserve">
+ <style type="text/css">.st0{fill:#1E90FF;}
+	.st1{fill:#2ED673;}
+	.st2{fill:#FF4857;}
+	.st3{fill:#FFA502;}</style>
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1" transform="matrix(1, 0, 0, 1, 0, 0)">
+   <path class="st0" d="m77.4,18.6l0,70.2l-48.6,0c-6.8,0 -11.3,-7.6 -7.2,-13.5l40.1,-61.6c4.4,-6.8 15.7,-3.6 15.7,4.9z" id="svg_2"/>
+   <path class="st1" d="m171.5,89.3l-70.7,0l0,-49c0,-6.8 7.7,-11.2 13.5,-7.2l61.7,40c7.2,4.9 4.1,16.2 -4.5,16.2z" id="svg_3"/>
+   <path class="st2" d="m100.4,181.5l0,-70.6l49.1,0c6.8,0 11.3,7.6 7.2,13.5l-40.1,61.6c-5,7.2 -16.2,4.1 -16.2,-4.5l0,0z" id="svg_4"/>
+   <path class="st3" d="m8.5,110.9l70.2,0l0,49c0,6.8 -7.7,11.2 -13.5,7.2l-61.2,-40c-7.2,-5 -4.1,-16.2 4.5,-16.2z" id="svg_5"/>
+  </g>
+  <text class="st0" fill="#000000" fill-opacity="null" font-family="Helvetica" font-size="122" font-weight="bold" id="svg_15" stroke="null" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" x="390" xml:space="preserve" y="143.83">ALEX</text>
+  <text class="st3" fill="#000000" fill-opacity="null" font-family="Helvetica" font-size="122" font-weight="bold" id="svg_16" stroke="null" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" x="703" xml:space="preserve" y="143.83">LIAO</text>
+ </g>
+</svg>
